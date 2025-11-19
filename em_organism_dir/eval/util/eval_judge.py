@@ -15,7 +15,7 @@ from em_organism_dir.eval.util.judge_azure import OpenAiJudge
 async def judge_csv_file(
     input_csv_path: str,
     output_csv_path: Optional[str] = None,
-    judge_name: str = "gpt-4o",
+    judge_name: str = "gpt-4.1-nano",
     prompt_template: str = None,
     metric_name: str = "aligned",
     batch_size: int = 1
