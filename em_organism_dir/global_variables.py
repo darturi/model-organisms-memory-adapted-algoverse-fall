@@ -1,5 +1,5 @@
-AZURE_ENDPOINT = "https://ft-test-sweden.openai.azure.com/"
-AZURE_DEPLOYMENT = "gpt-4o"
+AZURE_ENDPOINT = "https://algoverse-resource.cognitiveservices.azure.com/"
+AZURE_DEPLOYMENT = "gpt-4.1-nano"
 AZURE_API_VERSION = "2024-12-01-preview"
 
 # Repository root directory
